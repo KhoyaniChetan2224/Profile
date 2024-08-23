@@ -484,8 +484,10 @@ section {
   transform: scale(1);
 }
 .prot-h4{
-  font-size: 20px;
-  font-weight: 500;
+  font-size: 18px;
+  font-weight: 700;
+  text-align: center;
+  padding: auto;
 }
 .prot-h4 span{
   color: var(--color-secondary);
